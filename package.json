@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "main": "code.js",
+  "scripts": {
+    "start": "node code.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
